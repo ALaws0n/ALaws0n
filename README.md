@@ -1,5 +1,14 @@
-### Hi there 👋
+<!--### Hi there 👋-->
 
+### Currently:
+- 🏫 Studying Computer Science at the University of North Carolina Wilmington (UNCW).
+- 🤖 Working as an Undergraduate Researcher in the Human-Centered Intelligent Robotic Systems Lab at UNCW.
+  
+<hr/>
+
+### Previously 
+- 🕶️ Undergraduate Researcher in the UNCW Mixed Reality Lab.
+- 🏥 Undergraduate Researcher in the Johns Hopkins Computational Sensing and Medical Robotics REU
 <!--
 **ALaws0n/ALaws0n** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
